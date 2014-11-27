@@ -1,0 +1,3 @@
+#Google App Engine publish data
+#Thu Nov 27 17:21:22 CST 2014
+org.eclipse.jst.jee.server\:myFirstWebProject=/root/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/myEar/myFirstWebProject.war
