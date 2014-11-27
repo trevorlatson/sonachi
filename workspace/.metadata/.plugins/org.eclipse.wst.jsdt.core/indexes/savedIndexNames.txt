@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/home/sonabebe/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3425731001.index
+204253485.index
+3988035487.index
+1687737467.index
+1788683548.index
+730533866.index
